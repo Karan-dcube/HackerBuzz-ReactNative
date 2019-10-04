@@ -75,10 +75,3 @@ Feel free to submit issues and enhancement requests.
 
 Released under the MIT License. Check `LICENSE.md` for more info.
 
-## Donate
-
-Any support would be highly appreciated! 🚀 🌕
-
-- **BTC**: 1LCurQW9j7rP7uJYki2uW8RGFDJPujdvEt
-- **ETH**: 0x6350726EfE25205ef3AE88f054a16d40091725B6
-- **LTC**: LPvPMmqzBSDEjUmJcv2bXNUuc6cUWLnfoq
