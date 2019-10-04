@@ -4,11 +4,8 @@ Over the past few months, I've been working on a side project to gain an underst
 
 ### Available for iOS on the [App Store](https://itunes.apple.com/app/hacker-buzz/id1292825792?mt=8) and Android on the [Google Play Store](https://play.google.com/store/apps/details?id=com.hackerbuzz)
 
-<img src="https://raw.githubusercontent.com/RCiesielczuk/HackerBuzz-ReactNative/master/images/1.png" width="170" height="300" /> 
-<img src="images/2.png" width="170" height="300" />
-<img src="images/3.png" width="170" height="300" /> 
-<img src="images/4.png" width="170" height="300" />
-<img src="images/5.png" width="170" height="300" />
+<img src="https://raw.githubusercontent.com/RCiesielczuk/HackerBuzz-ReactNative/master/images/1.png" width="170" height="300" /> <img src="https://raw.githubusercontent.com/RCiesielczuk/HackerBuzz-ReactNative/master/images/2.png" width="170" height="300" /> <img src="https://raw.githubusercontent.com/RCiesielczuk/HackerBuzz-ReactNative/master/images/3.png" width="170" height="300" /> <img src="https://raw.githubusercontent.com/RCiesielczuk/HackerBuzz-ReactNative/master/images/4.png" width="170" height="300" /> <img src="https://raw.githubusercontent.com/RCiesielczuk/HackerBuzz-ReactNative/master/images/5.png" width="170" height="300" /> 
+
 
 ## Setup
 
