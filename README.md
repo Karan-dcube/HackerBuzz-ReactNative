@@ -73,5 +73,4 @@ Feel free to submit issues and enhancement requests.
 
 ### License
 
-Released under the MIT License. Check `LICENSE.md` for more info.
-
+Released under the MIT License.
