@@ -22,7 +22,7 @@
     "es6-promise": "^4.1.1",
     "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.4",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.1",
     "react-native-collapsible": "^0.8.0",
